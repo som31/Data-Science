@@ -52,22 +52,6 @@ When a person applies for a loan, there are two types of decisions that could be
 
 4) **Verification Status** : The Maximum defaults were committed by Non Verified loan applicants. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
