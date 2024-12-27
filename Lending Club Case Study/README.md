@@ -44,9 +44,11 @@ When a person applies for a loan, there are two types of decisions that could be
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Some Conclusions
-**Low Annual Income** : Applicants with annual incomes less than $40,000 have a higher likelihood of defaulting. The company should consider setting an Amount lending range depending on the income levels.
+1) **Low Annual Income** : Applicants with annual incomes less than $40,000 have a higher likelihood of defaulting. The company should consider setting an Amount lending range depending on the income levels.
 
-**DTI and Interest Rates** : High Debt-to-Income (DTI) ratios in the 12%-18% are associated with maximum defaults.
+2) **DTI and Interest Rates** : High Debt-to-Income (DTI) ratios in the 12%-18% are associated with maximum defaults.
+
+3) **Risk Assessment for Grades B, C, and D**: The loan applicants from Grades B, C, and D contribute to maximum of the "Charged Off" loans hence the company should consider implementing a stricter risk assessment and underwriting criteria for applicants falling into these grades.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
