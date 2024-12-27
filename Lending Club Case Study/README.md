@@ -50,6 +50,7 @@ When a person applies for a loan, there are two types of decisions that could be
 
 3) **Risk Assessment for Grades B, C, and D**: The loan applicants from Grades B, C, and D contribute to maximum of the "Charged Off" loans hence the company should consider implementing a stricter risk assessment and underwriting criteria for applicants falling into these grades.
 
+4) **Verification Status** : The Maximum defaults were committed by Non Verified loan applicants. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
