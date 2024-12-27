@@ -18,10 +18,15 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+The objective is to pinpoint applicants at risk of defaulting on loans, enabling a reduction in credit losses. This case study aims to achieve this goal through exploratory data analysis (EDA) using the provided dataset.
+
+The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
+
+The primary objective of this exercise is to assist Lending Club in mitigating credit losses. This challenge arises from two potential scenarios:
+
+Identifying applicants likely to repay their loans is crucial, as they can generate profits for the company through interest payments. 
+Rejecting such applicants would result in a loss of potential business.
+On the other hand, approving loans for applicants not likely to repay and at risk of default can lead to substantial financial losses for the company.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
