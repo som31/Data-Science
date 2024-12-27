@@ -43,8 +43,9 @@ When a person applies for a loan, there are two types of decisions that could be
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+## Some Conclusions
 **Low Annual Income** : Applicants with annual incomes less than $40,000 have a higher likelihood of defaulting. The company should consider setting an Amount lending range depending on the income levels.
+
 **DTI and Interest Rates** : High Debt-to-Income (DTI) ratios in the 12%-18% are associated with maximum defaults.
 
 
