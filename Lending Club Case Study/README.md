@@ -17,7 +17,7 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## Business Understanding
 The objective is to pinpoint applicants at risk of defaulting on loans, enabling a reduction in credit losses. This case study aims to achieve this goal through exploratory data analysis (EDA) using the provided dataset.
 
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
@@ -28,7 +28,7 @@ Identifying applicants likely to repay their loans is crucial, as they can gener
 Rejecting such applicants would result in a loss of potential business.
 On the other hand, approving loans for applicants not likely to repay and at risk of default can lead to substantial financial losses for the company.
 
-
+## Types of Decisions by the Company 
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
 **Loan accepted** If the company approves the loan, there are 3 possible scenarios described below:
