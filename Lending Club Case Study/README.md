@@ -10,7 +10,7 @@ On the other hand, approving loans for applicants not likely to repay and at ris
 
 
 ## Table of Contents
-* [General Info](#Business Understanding)
+* [General Info](#BusinessUnderstanding)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
