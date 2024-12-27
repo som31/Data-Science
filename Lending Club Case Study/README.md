@@ -9,12 +9,6 @@ Identifying applicants likely to repay their loans is crucial, as they can gener
 On the other hand, approving loans for applicants not likely to repay and at risk of default can lead to substantial financial losses for the company.
 
 
-## Table of Contents
-* [General Info](#BusinessUnderstanding)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## Business Understanding
 The objective is to pinpoint applicants at risk of defaulting on loans, enabling a reduction in credit losses. This case study aims to achieve this goal through exploratory data analysis (EDA) using the provided dataset.
