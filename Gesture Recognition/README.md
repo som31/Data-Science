@@ -1,8 +1,6 @@
 # GestureRecognitionUsingDeepLearning
 This project involves building a 3D Neural Network to correctly recognize hand gestures by a user to control a smart TV.
 
-![alt text](https://github.com/Ashutosh27ind/GestureRecognitionUsingDeepLearning/blob/main/sample_thumbs_down.PNG?raw=true)
-
 # Problem Statement:
 The objective of this projects is to build a hand gesture recognition model that can be hosted on a camera installed in a smart TV that can understand 5 gestures.   
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:  
