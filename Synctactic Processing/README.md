@@ -34,7 +34,7 @@ Download the dataset given below.
 
 [Train Sentence Dataset]( https://github.com/arnabberawork/Syntactic-Processing-Assignment/blob/main/train_sent )
 
-[Train Label Dataset]( https://github.com/arnabberawork/Syntactic-Processing-Assignment/blob/main/train_label )
+[Train Label Dataset]( https://github.com/som31/Data-Science/blob/main/Synctactic%20Processing/train_label)
 
 [Test Sentence Dataset]( https://github.com/som31/Data-Science/blob/main/Synctactic%20Processing/test_sent)
 
