@@ -38,7 +38,7 @@ Download the dataset given below.
 
 [Test Sentence Dataset]( https://github.com/arnabberawork/Syntactic-Processing-Assignment/blob/main/test_sent )
 
-[Test Label Dataset]( https://github.com/arnabberawork/Syntactic-Processing-Assignment/blob/main/test_label )
+[Test Label Dataset]( https://github.com/som31/Data-Science/blob/main/Synctactic%20Processing/test_label)
 
 Here, you need to understand that each word in this dataset is provided in a single line. So, first, you need to club all these words together to form the sentences. Moreover, there are blank lines given in the dataset that have been highlighted in the image given above. These blank lines indicate that a new sentence is starting from the next line onwards to the next blank line.
 
