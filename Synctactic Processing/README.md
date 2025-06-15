@@ -113,5 +113,4 @@ Entity Linking: Add a post-processing step for linking the extracted entities to
 - CRFsuite
 - Custom Feature Function
 
-## Author
-* [Arnab Bera]( https://www.linkedin.com/in/arnabbera-tech/ )
+
